@@ -1,2 +1,2 @@
 # osmiguedopedal
-aplicativo para registrar atividades dos amigos ciclistas
+Aplicativo para registrar atividades dos amigos ciclistas
